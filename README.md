@@ -4,7 +4,7 @@ Java Data Type Range Formula: **2ⁿ − 1**. Learn how the number of bits (n) d
 # Java Data Type Range
 
 
-This repository explains the range of Java data types using simple formulas.
+ repository explains the range of Java data types using simple formulas.
 
 ### Formula
 
